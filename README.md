@@ -12,4 +12,4 @@ Table of contents :
 - Fig6: scripts for paracrine effects in fibroblast cells within the senescent niche
 
 ### Processed data
-Processed data from scripts are provided in Zenodo, https://doi.org/10.5281/zenodo.22740567
+Processed data generated from these scripts are available on Zenodo, https://doi.org/10.5281/zenodo.22740567
